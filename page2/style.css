@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kirang+Haerang&display=swap');
+body {
+    font-family: 'Indie Flower', cursive;
+    margin: 0%;
+    padding: 0%
+}
+header {
+    background-image: url(img/banner2.png);
+    text-align: right;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 20%;
+    padding-bottom: 5%;
+    color: white
+}
+main {
+    position: relative;
+    background-color: black;
+}
+h1 {
+    margin-right: 10%
+}
+p {
+    margin: 0%;
+    color: white;
+}
+.leftbar{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width:40%;
+    background-color:black;
+    text-align: right;
+    padding: 5%;
+    height: 600px;
+    box-sizing: border-box;
+    font-size: 35px
+}
+.rightbar{
+    top: 0%;
+    box-sizing: border-box;
+    width:100%;
+    background-color: black;
+    color: white;
+    padding-left: 45%;
+    padding-top: 5%;
+    padding-right: 5%;
+    height: 600px;
+    font-size: 35px;
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+    text-align: center
+}
